@@ -255,7 +255,8 @@ img{
 .education__subtitle{
   margin-bottom: var(--mb-2);
 }  
-.logo_img{ 
+.logo_img{  
+ display:flexbox; 
  position:left;
  height:5%; 
  width:5%;

@@ -91,7 +91,7 @@ img{
   height: 0.18rem;
   left: 0;
   right: 0;
-  margin-top: 10%;
+  margin: auto;
   top: 2rem;
   background-color: var(--first-color);
 }

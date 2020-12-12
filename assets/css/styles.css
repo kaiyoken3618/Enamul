@@ -253,7 +253,8 @@ img{
   text-align: left; 
 }  
 .education__subtitle{
-  margin-bottom: var(--mb-2);
+  margin-bottom: var(--mb-2); 
+  margin-top: 4%;
 }  
 .logo_img{  
  display:flexbox; 
